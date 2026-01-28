@@ -1,3 +1,5 @@
+Скрывает сайты из поисковой выдачи Yandex 
+  
 Вызов через консоль window.yandexFilter:  
 // например, "yandexFilter.list()"  
 toggleReveal() - переключатель глазика  
