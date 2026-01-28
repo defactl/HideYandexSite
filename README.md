@@ -1,5 +1,5 @@
 Вызов через консоль window.yandexFilter:
-// например, "yandexFilter.list()"
+// например, "yandexFilter.list()"  
 toggleReveal() - переключатель глазика
 stats() - статистика
 list() - таблица в консоле индекс/домен
